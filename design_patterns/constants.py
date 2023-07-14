@@ -1,0 +1,1 @@
+NON_VEGAN_INGREDIENTS = ["Milk"]
